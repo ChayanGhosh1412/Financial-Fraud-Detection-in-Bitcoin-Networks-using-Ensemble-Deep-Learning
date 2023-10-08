@@ -32,6 +32,48 @@ The model includes the following processes:​
 
 <a href="https://www.kaggle.com/datasets/omershafiq/bitcoin-network-transactional-metadata">Original Dataset can be found here </a>
 
+<h1>Results</h1><br>
+
+<table>
+  <thead>
+    <tr>
+      <th>Model</th>
+      <th>Accuracy</th>
+      <th>Precision</th>
+      <th>Recall</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Random Forest (RF)</td>
+      <td>61.00%</td>
+      <td>84.62%</td>
+      <td>23.08%</td>
+    </tr>
+    <tr>
+      <td>Multi-Layer Perceptron (MLP)</td>
+      <td>95.00%</td>
+      <td>96.55%</td>
+      <td>89.99%</td>
+    </tr>
+    <tr>
+      <td>Attention LSTM</td>
+      <td>97.00%</td>
+      <td>98.26%</td>
+      <td>98.24%</td>
+    </tr>
+    <tr>
+      <td>Ensemble (MLP, FNN, Attention LSTM)</td>
+      <td>99.62%</td>
+      <td>99.40%</td>
+      <td>99.82%</td>
+    </tr>
+  </tbody>
+</table>
+
+![Result](https://github.com/AvigyanChowdhury/Financial-Fraud-Detection-in-Bitcoin-Networks-using-Ensemble-Deep-Learning/assets/146307887/535efc7a-5301-4aa9-addf-fcb5ee46db3b)
+
+
 
 
   
