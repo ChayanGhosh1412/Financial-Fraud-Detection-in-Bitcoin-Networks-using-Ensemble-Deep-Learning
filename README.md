@@ -22,6 +22,14 @@ The model includes the following processes:​
 
 ![method](https://github.com/AvigyanChowdhury/Financial-Fraud-Detection-in-Bitcoin-Networks-using-Ensemble-Deep-Learning/assets/146307887/89e42d68-0fc5-4aa8-a874-b32efd270e40)
 
+
+<h1>Dataset</h1><br>
+
+<li>Contains information on over 4 million Bitcoin transactions​</li>
+<li>​Includes information on transaction IDs, timestamps, input and output addresses, input and output amounts, and transaction fees.​</li>
+<li>Includes a variety of features that can be used to detect fraudulent transactions, such as the number of inputs and outputs per transaction, the total input and output amounts, the transaction size, and the transaction age​</li>
+<li>Includes a label for each transaction, indicating whether or not it is fraudulent​​</li>
+
 <a href="https://www.kaggle.com/datasets/omershafiq/bitcoin-network-transactional-metadata">Original Dataset can be found here </a>
 
 
